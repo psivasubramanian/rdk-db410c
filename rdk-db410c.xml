@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<default revision="krogoth" sync-j="4"/>
+<default revision="morty" sync-j="4"/>
 
   <remote  name="rdkgerrit"
            fetch="ssh://lhg-review.linaro.org:29418/lhg/"
            review="https://lhg-review.linaro.org/" />
 
 
-  <remove-project name="96boards/meta-rpb" />
-  <remove-project name="meta-qt5/meta-qt5" />
+    <remove-project name="meta-qt5/meta-qt5" />
   <remove-project name="linaro-home/meta-lhg" />
 
   <project remote="rdkgerrit" name="rdk/yocto_oe/layers/meta-qt5" path="layers/meta-qt5" revision="rdk/daisy"/>
