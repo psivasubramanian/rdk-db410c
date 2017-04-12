@@ -12,6 +12,6 @@
 
   <project remote="rdkgerrit" name="rdk/yocto_oe/layers/meta-qt5" path="layers/meta-qt5" revision="rdk/daisy"/>
   <project remote="rdkgerrit" name="rdk/yocto_oe/layers/meta-rdk" path="layers/meta-rdk" revision="topic/fr_rdksvreq8166_042616"/>
-  <project remote="github" name="Metrological/meta-metrological" path="layers/meta-metrological" revision="f52bbed2dd4aa7f223c31cdeb0caf29095840d4c"/>
+  <project remote="github" name="Metrological/meta-metrological" path="layers/meta-metrological" revision="c8a66ff9e2d6c480d0f2f17408cea1d7cadc4885"/>
 
 </manifest>
