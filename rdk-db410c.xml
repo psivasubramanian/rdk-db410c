@@ -11,7 +11,7 @@
   <remove-project name="linaro-home/meta-lhg" />
 
   <project remote="rdkgerrit" name="rdk/yocto_oe/layers/meta-qt5" path="layers/meta-qt5" revision="rdk/daisy"/>
-  <project remote="rdkgerrit" name="rdk/yocto_oe/layers/meta-rdk" path="layers/meta-rdk" revision="2ed610e153339c3cfe15d3dd5c6967e663b20e52"/>
+  <project remote="rdkgerrit" name="rdk/yocto_oe/layers/meta-rdk" path="layers/meta-rdk" revision="06d72184511e98bd196134352b92300a713437bc"/>
   <project remote="github" name="Metrological/meta-metrological" path="layers/meta-metrological" revision="010ec0a013fe3af9901cffc8e41e7f816084365c"/>
 
 </manifest>
